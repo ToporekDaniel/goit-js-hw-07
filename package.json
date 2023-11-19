@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "simplelightbox": "^2.14.2"
+  },
+  "name": "goit-js-hw-07",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
