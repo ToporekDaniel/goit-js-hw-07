@@ -18,8 +18,6 @@ for (const item of galleryItems) {
   gallery.insertAdjacentHTML("beforeend", pic);
 }
 
-const galleryItem = document.querySelectorAll(".gallery__item");
-
 gallery.addEventListener("click", (event) => {
   event.preventDefault();
 

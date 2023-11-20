@@ -14,7 +14,6 @@ for (const item of galleryItems) {
 }
 
 var lightbox = new SimpleLightbox(".gallery a", {
-  captions: true,
   captionsData: "alt",
   captionDelay: 250,
 });
